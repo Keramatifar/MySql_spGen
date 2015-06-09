@@ -1,0 +1,30 @@
+.popUp{
+    width: 480px;
+    height: 380px;
+    background: #FBFBFB;
+    border: 1px solid #C0C0C0;
+    padding: 0 20px 20px 20px;
+}
+.popUpContent{
+    width: 470px;
+    height: 340px;
+    background: white;
+    border: 1px solid #C0C0C0;
+    margin: 0 auto;
+    
+}
+.popTitle{
+    font: normal 12px tahoma;
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+    margin: 0;
+    padding: 0;
+    
+    
+}
+.box{
+    width: 150px; height: auto; background: gray; border: 1px solid black;
+    float: left;
+    margin: 5px;
+}

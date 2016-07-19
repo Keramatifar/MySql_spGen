@@ -1,6 +1,6 @@
 <?php
- $conn = mysql_connect( $host, $username, $password )
-        or die( mysql_errno().': '.mysql_error() );
+ $conn = mysqli_connect( $host, $username, $password )
+     ;
 
 function CreateSelectAll($tblName, $recs, $sp_name, $lenPerfixSeprator)
 {
